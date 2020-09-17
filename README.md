@@ -1,2 +1,2 @@
 # Counter
- Counter App
+ Counter App with JS
